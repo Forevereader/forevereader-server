@@ -29,6 +29,8 @@ npm install # 추가된 dependencies가 있을지 몰라 추가
 forever restart app.js # 밑에 설명
 ```
 
+[자세한 설명][1]
+
 ### 로컬에서 원격 repository를 추가
 
 ```bash
@@ -66,3 +68,4 @@ $ npm install -g forever
 ```
 
 [0]: https://github.com/nodejitsu/forever
+[1]: http://git-scm.com/book/ch7-3.html
